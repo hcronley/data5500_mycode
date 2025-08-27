@@ -1,0 +1,25 @@
+[2025-08-27T16:56:19.696Z] info  code-server 4.103.1 fbaadbcfbc16401327e28bd5df3040261977a540
+[2025-08-27T16:56:19.712Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-08-27T16:56:19.784Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-08-27T16:56:19.784Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-08-27T16:56:19.784Z] info    - Authentication is enabled
+[2025-08-27T16:56:19.785Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-08-27T16:56:19.785Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-08-27T16:56:19.785Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[16:59:38] 
+
+
+
+
+[16:59:38] Extension host agent started.
+[16:59:38] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[16:59:38] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+[16:59:48] [<unknown>][89a241f1][ManagementConnection] New connection established.
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[16:59:51] [<unknown>][c0086804][ExtensionHostConnection] New connection established.
+[16:59:51] [<unknown>][c0086804][ExtensionHostConnection] <5769> Launched Extension Host Process.
+[17:28:46] [<unknown>][89a241f1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:28:47] [<unknown>][89a241f1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:28:47] [<unknown>][89a241f1][ManagementConnection] The client has reconnected.
+[17:28:47] [<unknown>][c0086804][ExtensionHostConnection] The client has reconnected.
