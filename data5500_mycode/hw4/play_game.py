@@ -19,6 +19,7 @@ def play_blackjack():
 
     # Ace tracker 
     ace = 0
+    
 
     if card.face == "Ace":
         ace += 1
