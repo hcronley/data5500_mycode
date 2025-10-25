@@ -1,0 +1,19 @@
+Prompt to ChatGPT:
+"Explain the process of deleting a node from a binary search tree in Python, including how to handle nodes with 0, 1, or 2 children and potential edge cases."
+
+Deleting a node from a BST invloves three main cases:
+
+1. When a node has no children:
+    - You would need to remove the node form the tree by setting it's parents pointer to "None".
+
+2. When a node has one child:
+    - In this case you would need to replace the node its only child. This preserves the BST because 
+    the child would be either larger or smaller than the parent.
+
+3. When a node has two children:
+    - In order to handle this case we need to check if the node is on the left or right side of the BST.
+    If on the left we would use the node's inorder predecessor (largest node in the left subtree).
+    If on the right we would use the node's inorder successor (smallest node in the right subtree).
+
+
+Overall, deletion in a BST must always maintain form such that all nodes in the left subtree are smaller, and all in the right subtree are larger than the parent node.
