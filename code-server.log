@@ -1,0 +1,20 @@
+[2025-09-13T22:54:53.919Z] info  code-server 4.103.1 fbaadbcfbc16401327e28bd5df3040261977a540
+[2025-09-13T22:54:53.938Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-09-13T22:54:54.010Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-09-13T22:54:54.010Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-09-13T22:54:54.011Z] info    - Authentication is enabled
+[2025-09-13T22:54:54.011Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-09-13T22:54:54.011Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-09-13T22:54:54.011Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[22:55:00] 
+
+
+
+
+[22:55:00] Extension host agent started.
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+[22:55:08] [<unknown>][e32234c4][ManagementConnection] New connection established.
+[22:55:11] [<unknown>][886ba3d9][ExtensionHostConnection] New connection established.
+[22:55:12] [<unknown>][886ba3d9][ExtensionHostConnection] <2358> Launched Extension Host Process.
+File not found: /var/app/code-server/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
